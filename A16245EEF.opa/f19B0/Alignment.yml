@@ -1,0 +1,28 @@
+segment_sources:
+  ID8DEBEDD:
+    type: origin_type
+    relation: translation
+    language: en
+  I8BBB805A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  befd6f7edb8e4ab1af364964782cbe33:
+    ID8DEBEDD: bc54ab3866664aa28154b79233aed41d
+    I8BBB805A: 3909c96365af468d8fd15d542fce146e
+  494fd7c7fe1e49a9a35bbfb831e4a9dd:
+    ID8DEBEDD: bf55c3fb9b9c45858f261ef4c8bd93cb
+    I8BBB805A: 7aef9360be6643a2896d52a8b43e574e
+  93de6a014d14498e89ff2d892c32fb3c:
+    ID8DEBEDD: 865c2aab5f04448b94e82a65d6e3a5f9
+    I8BBB805A: 878c6dee43704c2c99d2a632790f9f85
+  715be9bc39c44e26b62056d2736d1e0b:
+    ID8DEBEDD: 1a6ab578a9b24db8bfe78f756771c09d
+    I8BBB805A: 9500e52749dd410ab6807462e9b34989
+  b78bbb4df1fd4c539e9e9cd63ece116c:
+    ID8DEBEDD: e95d1316535e4d80abfc99fd7ef633de
+    I8BBB805A: b4274512ff784d3d80a54f2c37ac4772
+  6d51f737ac194291a49ac6b6ba8ee41c:
+    ID8DEBEDD: 98a821c8e3c0444f985e7f3b4f4f7e98
+    I8BBB805A: b729efa155f64d8db5dbe9611255102d
